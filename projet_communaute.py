@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding:Utf-8 -*-
 
+# Camille Massimi et Fanny Courant
+# lien github : https://github.com/fanny-crt/Projet_final.git
+
 import gzip
 from collections import defaultdict
 import csv

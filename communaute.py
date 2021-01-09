@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding:Utf-8 -*-
 
-from projetV12 import *
+# Camille Massimi et Fanny Courant
+# lien github : https://github.com/fanny-crt/Projet_final.git
+
+from projet_communaute import *
 import sys
 import time
 import os
