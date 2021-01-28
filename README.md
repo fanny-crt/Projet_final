@@ -1,4 +1,4 @@
-Réalisation d'une modélisation des communautés et des influences des scientifiques
+# Réalisation d'une modélisation des communautés et des influences des scientifiques
 
 L'objectif de ce projet est de concevoir une application qui indique les influences ou les communautés d'un auteur, et également de les représenter graphiqumement.
 Tout d'abord, l'auteur A est une influence de l'auteur B, si l'auteur B cite un article de l'auteur A et l'auteur B est influencé par l'auteur A.
