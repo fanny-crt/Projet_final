@@ -451,12 +451,6 @@ class Graphe(Auteur):
         plt.show()
 
 
-
-
-
-
-
-
 class PasReference(Exception):
     pass
 
