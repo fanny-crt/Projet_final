@@ -1,6 +1,6 @@
 # Réalisation d'une application python orientée objet 
 
-L'objectif de ce projet est de concevoir une application qui indique les influences ou les communautés d'un auteur, et également de les représenter graphiqumement.
+L'objectif de ce projet est de concevoir une application qui indique les influences ou les communautés d'un auteur, et également de les représenter graphiquemement.
 
 Tout d'abord, l'auteur A est une influence de l'auteur B, si l'auteur B cite un article de l'auteur A et l'auteur B est influencé par l'auteur A.
 De plus, l'auteur C est une influence de l'auteur B de profondeur 2, si l'auteur C cite un article de l'auteur A. On dit alors que l'auteur C a une influence d'intensité 1/2 sur l'auteur B. 
