@@ -13,7 +13,7 @@ qui indiquait quelle article citait quelle article (hep-th-citations.tar.gz).
 
 Nous avons tout d'abord trier et nettoyer les données de ces fichiers pour en ressortir 3 fichiers CSV:
 - le premier indiquait le nom de l'auteur et ses références d'articles, 
-- le deuxièmre indiquait les références d'articles avec les articles qu'ils citaient,
+- le deuxième indiquait les références d'articles avec les articles qu'ils citaient,
 - le troisième indiquait les références d'articles avec les articles qui les citaient
 
 Puis, nous avons créer une classe Auteur qui permet de déterminer les influences et les communautés d'un auteur donné, en fonction de sa profondeur. On obtient 
